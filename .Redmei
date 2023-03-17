@@ -1,0 +1,13 @@
+// 2 Tipos de formularios : controlled / uncontrolled 
+// biblioteca de validacao : zod [ npm i zod ]
+// para integrar com o react-hook-form = npm i @hookform/resolvers
+
+/**
+ * o register retorna elemento do html
+ * funcion register(name:string) {
+ *  retrun(
+ *    onChange: () => void;
+ *    onBlur: () => void;
+ * )
+ * }
+*/
